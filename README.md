@@ -1,0 +1,2 @@
+# Power-BI-Based-Risk-Analysis-for-Banking-and-Financial-Services
+This project focuses on developing a risk analytics system for the banking and financial services sector to assist in making data-driven decisions while lending to customers. Using Power BI, we created interactive dashboards that analyze an applicant’s profile to assess the likelihood of loan repayment, thereby minimizing the risk of defaults.
