@@ -84,8 +84,8 @@ Before visualizing the data, we performed several preprocessing and cleaning tas
 - **Advisor Performance Metrics**  
 - **Gender and Age Group Trends**  
 - **Banking Relationships and Client Engagement**
-- ![Dashboard image](![Screenshot 2025-07-04 120118](https://github.com/user-attachments/assets/643e6286-d8ab-45ee-bc9d-1cebf841380e)
-)
+- !Dashboard image![Screenshot 2025-07-04 120118](https://github.com/user-attachments/assets/643e6286-d8ab-45ee-bc9d-1cebf841380e)
+
 
 ---
 
